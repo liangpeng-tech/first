@@ -5,7 +5,7 @@ public class Person {
     private String id;
     private String goodluck;
         System.out.println ("猪猪侠");
-
+        System.out.println("sb");
         System.out.println ("牛逼");
     }
 }
